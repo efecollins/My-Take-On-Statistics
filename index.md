@@ -1,4 +1,4 @@
-# My Take on Statistics
+# My Take on Statistics by [Efosa Collins EVBOWE](https://github.com/efecollins)
 Statistics is a fascinating field that allows us to make sense of the data that surrounds us. From understanding the behavior of large groups of people to predicting future trends, statistics plays a crucial role in many aspects of our lives.
 
 As someone who has spent a significant amount of time studying and working with statistics, I have come to appreciate its power and versatility. However, I also recognize that statistics can be complex and confusing for those who are new to the field.
