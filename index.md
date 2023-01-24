@@ -16,3 +16,5 @@ One of the most important things to understand about statistics is that it is no
 One of the most exciting things about statistics is that it is constantly evolving. With the advent of new technologies and the increasing availability of data, new methods and techniques are being developed all the time. This means that there are always new challenges to tackle and new insights to be gained.
 
 In conclusion, statistics is a powerful tool that can help us to make sense of the world around us. Whether you are a scientist, a business professional, or just someone who is curious about the data that surrounds us, there is something in statistics for you.
+
+Want to stay ahead of the curve in the world of statistics? Follow me on [Twitter](https://twitter.com/EfeCollins7) or [Instagram](https://instagram.com/efecollinsevb) for exclusive insights, analysis, and updates on my latest articles. Let's learn and grow together!
